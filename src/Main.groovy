@@ -3,4 +3,5 @@ static void main(String[] args) {
   println "git test"
   println "this is ver 004"
   println "this line for conflict purpose"
+  println "this is git-test-001"
 }
